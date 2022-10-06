@@ -16,11 +16,11 @@ After a while that you can access:
  - password: see `.env`
 
 **Geoserver**
- - url: http://localhost:8080
+ - url: http://localhost/geoserver
  - username: admin
  - password: see `.env`
 
 **PgAdmin**
- - url: http://localhost:5000
+ - url: http://localhost/pgadmin4
  - username/email: see `.env`
  - password: see `.env`
